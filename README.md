@@ -43,7 +43,7 @@ status: locking in 🤤
 
 ### 🛠️ Tech & Tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,git,linux,bash,vim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,godot,git,linux,bash,vim&theme=dark" />
 
 </div>
 
