@@ -14,7 +14,7 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="55%">
+<td valign="top">
 
 ### ⚡ Info
 
@@ -25,21 +25,20 @@ status: locking in 🤤
 ```
 
 </td>
-<td valign="top" width="45%">
-  
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanvyx-sancre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A970FF&icon_color=6C63FF&text_color=c9d1d9" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvyx-sancre&theme=tokyonight&hide_border=true&background=0d1117&ring=A970FF&fire=FFD700&currStreakLabel=A970FF" width="100%"/>
-
-</td>
 </tr>
 </table>
 
 <br/>
 
 <div align="center">
+
+### 🛠️ Tech & Tools
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,godot,git,linux,bash,vim&theme=dark" />
+
+</div>
+
+<br/>
 
 ## 📌 Pinned Project
 
