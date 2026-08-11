@@ -33,16 +33,13 @@ status: locking in 🤤
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvyx-sancre&theme=tokyonight&hide_border=true&background=0d1117&ring=A970FF&fire=FFD700&currStreakLabel=A970FF" width="100%"/>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 <div align="center">
-### 🛠️ Tech & Tools
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,godot,git,linux,bash,vim&theme=dark" />
-
-</div>
-
-<br/>
 
 ## 📌 Pinned Project
 
