@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sanvyx&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=locking%20in%20%F0%9F%A4%A4&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://github.com/sanvyx-sancre">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=520&lines=Good+morniiiii+%F0%9F%91%8B;Building+things+in+C+%2B+beyond;Currently%3A+locking+in;Achievement+unlocked%3A+YOLO+%F0%9F%8F%86" alt="Typing SVG" />
-</a>
-
-<br/>
+<h3>Good morniiiii 🤤</h3>
 
 <img src="https://img.shields.io/github/followers/sanvyx-sancre?label=Followers&style=for-the-badge&color=A970FF&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/status-locking%20in-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
@@ -20,21 +16,13 @@
 <tr>
 <td valign="top" width="55%">
 
-### ⚡ About me
+### ⚡ Info
 
 ```yaml
-name:      Sanvyx
-handle:    sanvyx-sancre
-status:    good morniiiii
-mood:      locking in 🤤
-achievement: YOLO 🏆
+name:   Sanvyx
+handle: sanvyx-sancre
+status: locking in 🤤
 ```
-
-- 🔭 Currently building **[vibs](https://github.com/sanvyx-sancre/vibs)** — a minimal vi-inspired terminal text editor
-- 🌱 Always tinkering on new side projects
-- ⚙️ Comfortable down in the low-level / systems weeds (C, terminals, editors)
-- 💬 Ask me about text editors, terminal tooling, or whatever I'm "locking in" on this week
-- 📫 Find me right here on GitHub — [@sanvyx-sancre](https://github.com/sanvyx-sancre)
 
 </td>
 <td valign="top" width="45%">
