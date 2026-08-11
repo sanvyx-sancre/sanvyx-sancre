@@ -51,8 +51,6 @@ status: locking in 🤤
 **[vibs](https://github.com/sanvyx-sancre/vibs)** — *A modern vi-like text editor.*
 A minimal, ncurses-powered terminal editor written in C, with vi-style modal editing (normal/insert/visual), `:` command mode, and a simple TOML config at `~/.config/vibs/config.toml`.
 
-`C` · `ncurses` · `MIT License` · ⭐ 2
-
 </div>
 
 <br/>
