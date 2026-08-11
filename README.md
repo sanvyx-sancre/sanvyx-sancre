@@ -16,7 +16,7 @@
 <tr>
 <td valign="top">
 
-### ⚡ Info
+### info insane info
 
 ```yaml
 name:   Sanvyx
@@ -32,7 +32,7 @@ status: locking in 🤤
 
 <div align="center">
 
-### 🛠️ Tech & Tools
+### i like:
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,godot,git,linux,bash,vim&theme=dark" />
 
@@ -40,7 +40,7 @@ status: locking in 🤤
 
 <br/>
 
-## 📌 Pinned Project
+## my pinned project
 
 <div align="center">
 
@@ -59,7 +59,7 @@ A minimal, ncurses-powered terminal editor written in C, with vi-style modal edi
 
 <div align="center">
 
-### 🔗 More repositories
+### other repos
 
 <a href="https://github.com/sanvyx-sancre?tab=repositories">
   <img src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
